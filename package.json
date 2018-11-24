@@ -1,11 +1,11 @@
 {
   "name": "sails-db-migrate",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "db-migrate integration for sails.js",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/building5/sails-db-migrate.git"
+    "url": "https://github.com/2012mjm/sails-db-migrate.git"
   },
   "keywords": [
     "sails",
