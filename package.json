@@ -1,6 +1,6 @@
 {
-  "name": "@2012mjm/sails-db-migrate",
-  "version": "1.5.1",
+  "name": "sails-db-migrate",
+  "version": "1.5.0",
   "description": "db-migrate integration for sails.js",
   "main": "index.js",
   "repository": {
@@ -22,6 +22,6 @@
   "devDependencies": {},
   "peerDependencies": {
     "db-migrate": ">0.7.0 <0.11 || >=0.10.0-beta.4 <0.11",
-    "sails": ">0.10.4 <0.13 || >=0.12.0-rc3 <0.13 || <=1.1"
+    "sails": ">0.10.4 <0.13 || >=0.12.0-rc3 <0.13"
   }
 }
