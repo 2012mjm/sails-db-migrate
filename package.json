@@ -1,5 +1,5 @@
 {
-  "name": "sails-db-migrate",
+  "name": "@2012mjm/sails-db-migrate",
   "version": "1.5.1",
   "description": "db-migrate integration for sails.js",
   "main": "index.js",
